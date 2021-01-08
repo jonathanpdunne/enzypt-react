@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-emotion": "^9.1.2",
     "babel-polyfill": "^6.26.0",
     "bnc-assist": "^0.8.3",
